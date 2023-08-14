@@ -101,7 +101,7 @@
 * _From main branch - THESE DO NOT WORK IN GITHUB_
 
 * content_line: \!\[in repo with protocol with filename]\(https://github.com/johntrandall/fake-repo-link-rewriting/in_repo_with_protocol_with_filename.jpg) included in fetch,
-    * ![in repo with protocol with filename](https://github.com/johntrandall/fake-repo-link-rewriting/in_repo_with_protocol_with_filename.jpg) included in fetch,
+    * ![in repo with protocol with filename](https://github.com/johntrandall/fake-repo-link-rewriting/blob/main/in_repo_with_protocol_with_filename.jpg) included in fetch,
 
 * content_line: \!\[in repo with weird protocol with filename]\(file://github.com/johntrandall/fake-repo-link-rewriting/in_repo_weird_protocol_with_filename.jpg) included in fetch,
     * ![in repo with weird protocol with filename](file://github.com/johntrandall/fake-repo-link-rewriting/in_repo_weird_protocol_with_filename.jpg) included in fetch,
